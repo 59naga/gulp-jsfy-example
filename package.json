@@ -1,0 +1,13 @@
+{
+  "name": "gulp-jsfy-example",
+  "scripts":{
+    "start":"bower install && npm install && gulp"
+  },
+  "dependencies": {
+    "coffee-script": "^1.8.0",
+    "gulp": "^3.8.10",
+    "gulp-concat": "^2.4.3",
+    "gulp-jsfy": "^0.1.2",
+    "main-bower-files": "^2.5.0"
+  }
+}
